@@ -6,7 +6,7 @@ So you need to install twint first:
 
 `pip install twint`
 
-Feature:
+# Feature:
 - Save all statistics to a file "mension_influence.csv".
 - Support to continue crawling if "mension_influence.csv" exists.
 - Adjust the mention impact formula.
