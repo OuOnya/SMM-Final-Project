@@ -211,7 +211,7 @@ def reply_influence(user, filename=os.path.join(args.file_path, args.reply_filen
                     break
                 except Exception as e:
                     print(e)
-                    sleep(5)
+                    time.sleep(5)
             print(f'Search time: {time.time() - start} s.')
 
             pd_all_reply_tweets = twint.storage.panda.Tweets_df
