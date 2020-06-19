@@ -14,9 +14,9 @@ So you need to install twint first:
 4. Run it :)
 
 # Features:
-- Save all statistics to a file "mension_influence.csv".
-- Support to continue crawling if "mension_influence.csv" exists.
-- ``reply_influence`` function may work now.
+- Save all statistics to one file "mention_influence.csv".
+- ``mention_influence`` support to continue crawling if "mention_influence.csv" exists.
+- ``reply_influence`` function may work now. Currently each user saves to a different file.
 - ``reply_influence`` also support to continue crawling if "reply_influence {user}.csv" exists.
 
 **If you have any questions please contact me.**
