@@ -16,21 +16,21 @@ So you need to install twint first:
 
 
 ## Convert CSV files to JSON files
-If you run the above code, it will output *mention_influence.csv* file and several *reply_influence __USER__.csv* files.
+If you run the above code, it will output *mention_influence.csv* file and several *reply_influence {USER}.csv* files.
 
 To convert these CSV files to standard JSON format.
 
 First, you need to write your *ID2name.json* file to match the Twitter ID with the real name.
 
-Then specify the abbreviated code of your country, for example ***US***. Use the following command:
+Then specify the abbreviated code of your country, for example *US*. Use the following command:
 
 ```python
 python csv2json.py -m -r -n US
 ```
 
-You can use ``python export_analyse.py --help`` to see a list of 2-letter country abbreviation code and more details.
+You can use ``python csv2json.py --help`` to see a list of 2-letter country abbreviation code and more details.
 
-If you have saved CSV files in another directory, for example ***./content/drive/mention_influence.csv***.
+If you have saved CSV files in another directory, for example *./content/drive/mention_influence.csv*.
 You can use the following command:
 
 ```python
