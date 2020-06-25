@@ -1,0 +1,25 @@
+{
+    "BarackObama":     "Barack Obama",
+    "BernieSanders":   "Bernie Sanders",
+    "HillaryClinton":  "Hillary Clinton",
+    "JoeBiden":        "Joe Biden",
+    "NYGovCuomo":      "Andrew Cuomo",
+    "SenSchumer":      "Chuck Schumer",
+    "SenGillibrand":   "Kirsten Gillibrand",
+    "GovInslee":       "Jay Inslee",
+
+    "RandPaul":        "Rand Paul",
+    "realDonaldTrump": "Donald Trump",
+    "dougducey":       "Doug Ducey",
+    "KimReynoldsIA":   "Kim Reynolds",
+    "Mike_Pence":      "Mike Pence",
+    "senatemajldr":    "Mitch McConnell",
+    "GovernorKayIvey": "Kay Ivey",
+    "GovHolcomb":      "Eric Holcomb",
+
+    "KDTrey5":         "Kevin Durant",
+    "KingJames":       "LeBron James",
+    "rudygobert27":    "Rudy Gobert",
+    "tomhanks":        "Tom Hanks",
+    "iamcardib":       "Cardi B"
+}
