@@ -20,7 +20,7 @@ If you run the above code, it will output *mention_influence.csv* file and sever
 
 To convert these CSV files to standard JSON format.
 
-First, you need to write your *ID2name.json* file to match the Twitter ID with the real name.
+First, you need to **write your _ID2name.json_ file** to match the Twitter ID with the real name.
 
 Then specify the abbreviated code of your country, for example *US*. Use the following command:
 
